@@ -1,0 +1,17 @@
+[
+  {
+    "id": "returns-30-days",
+    "title": "Returns",
+    "text": "Unused products can be returned within 30 days of delivery with a receipt."
+  },
+  {
+    "id": "shipping-times",
+    "title": "Shipping",
+    "text": "Standard shipping takes 3 to 5 business days. Express shipping takes 1 to 2."
+  },
+  {
+    "id": "password-reset",
+    "title": "Password reset",
+    "text": "Select Forgot password on the sign-in page and follow the emailed reset link."
+  }
+]
