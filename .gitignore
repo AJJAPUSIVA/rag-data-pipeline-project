@@ -3,3 +3,8 @@ __pycache__/
 *.py[cod]
 .DS_Store
 latest_answer.json
+
+# Indic preprocessing generated artifacts
+build/
+__pycache__/
+*.pyc
